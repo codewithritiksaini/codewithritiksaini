@@ -1,7 +1,7 @@
 # <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mr_ritik_saini_?label=Follow&style=flat-square&color=1DA1F2)](https://x.com/intent/follow?screen_name=mr_ritik_saini_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mr_ritik_saini_?label=Follow)](https://twitter.com/intent/follow?screen_name=mr_ritik_saini_)
 [![LinkedIn: Ritik Saini](https://img.shields.io/badge/LinkedIn-Ritik%20Saini-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-saini-web-developer/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white)](https://ritiksaini.in/)
 ![Profile views](https://komarev.com/ghpvc/?username=Ritik-Saini-Git&color=blue)
