@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_ritik_saini_?label=Follow)](https://twitter.com/intent/follow?screen_name=mr_ritik_saini_)
 [![LinkedIn: Ritik Saini](https://img.shields.io/badge/LinkedIn-Ritik%20Saini-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-saini-web-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr._ritik_saini_/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr._ritik_saini_/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/930532968487845928)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white)](https://ritiksaini.in/)
 ![Profile views](https://komarev.com/ghpvc/?username=Ritik-Saini-Git&color=blue)
