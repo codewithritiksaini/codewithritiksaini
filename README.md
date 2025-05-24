@@ -1,6 +1,9 @@
 # <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ritiksaini?label=Follow)](https://x.com/intent/follow?screen_name=mr_ritik_saini_)
+[![Linkedin: Ritik Saini](https://img.shields.io/badge/-ritik-saini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-saini-web-developer/)](https://www.linkedin.com/in/ritik-saini-web-developer/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ritiksaini.in/)](https://ritiksaini.in/)
 ![Profile views](https://komarev.com/ghpvc/?username=Ritik-Saini-Git&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Ritik-Saini-Git?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Ritik-Saini-Git?style=social)
