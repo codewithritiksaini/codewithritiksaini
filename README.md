@@ -16,7 +16,7 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
   - Web Portals, Landing Pages, and eCommerce Solutions  
 - 🎯 **Experience**: 2+ Years  
 
-## Key Skills
+## 🔧 Key Skills
 
 - **PHP & Laravel**: Expert in Laravel-based solutions with real-world deployment and optimization.
 - **Frontend**: Proficient in HTML5, CSS3, JavaScript, Bootstrap, and Tailwind CSS.
@@ -31,9 +31,9 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 - Enhancing UI/UX through performance optimization  
 
 ## 🌱 Currently Learning...
-- Livewire
-- Core Js 
-- Core Php 
+- Livewire  
+- Core JS  
+- Core PHP  
 - Advanced Laravel Patterns  
 - Docker & DevOps Basics  
 
@@ -53,9 +53,8 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🧩 Backend  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-php bhi add kro 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### 🛢 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -69,16 +68,14 @@ php bhi add kro
 
 ---
 
-
 ## 📫 How to Reach Me
 - **Email**: contact.ritiksaini@gmail.com
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ritiksaini-dev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://ritiksaini.in)
-esmein Instagram , discord, links ko bhi add kro 
-Instagram link = https://www.instagram.com/mr._ritik_saini_/
-discord = https://discord.com/users/930532968487845928
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://ritiksaini.in)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr._ritik_saini_/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/930532968487845928)
 
 ---
