@@ -1,5 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="Ritik Saini Web Developer India"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="codewithritiksaini working gif">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_ritik_saini_?label=Follow)](https://twitter.com/intent/follow?screen_name=mr_ritik_saini_)
 [![LinkedIn: Ritik Saini](https://img.shields.io/badge/LinkedIn-Ritik%20Saini-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-saini-web-developer/)
@@ -39,9 +39,9 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 
 ## 🏆 Achievements
 
-- 🥇 Completed 10+ Laravel-based Projects
-- 🛠️ Built Admin Panels used by 150+ users
-- 🌐 Developed ritiksaini.in from scratch with full SEO optimization
+- 🥇 Completed 10+ Laravel-based Projects  
+- 🛠️ Built Admin Panels used by 150+ users  
+- 🌐 Developed ritiksaini.in from scratch with full SEO optimization  
 - 🧠 Lead dev at Haxways for key client apps
 
 ---
@@ -83,14 +83,6 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 
 ---
 
-## 🤓 Fun Facts
-
-- I drink chai more than coffee ☕  
-- Coding at night is my superpower 🌙  
-- I love helping juniors and beginners 💬  
-
----
-
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages  
@@ -119,7 +111,8 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: contact.ritiksaini@gmail.com
+- 📧 **Email**: [contact.ritiksaini@gmail.com](mailto:contact.ritiksaini@gmail.com)
+- 🌐 **Portfolio**: [ritiksaini.in](https://ritiksaini.in)
 
 ---
 
@@ -129,47 +122,7 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
   <img src="https://github-readme-stats.vercel.app/api?username=codewithritiksaini&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
 </div>
 
----
-
-<!-- 🔥 Advanced SEO: Hidden Structured Data + Keywords -->
-<div hidden>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Ritik Saini",
-  "url": "https://github.com/codewithritiksaini",
-  "sameAs": [
-    "https://ritiksaini.in/",
-    "https://twitter.com/mr_ritik_saini_",
-    "https://www.linkedin.com/in/ritik-saini-web-developer/",
-    "https://www.instagram.com/mr._ritik_saini_/"
-  ],
-  "jobTitle": "Web Developer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Haxways Software Development Company"
-  },
-  "alumniOf": {
-    "@type": "CollegeOrUniversity",
-    "name": "Maa Shakumbhari University"
-  }
-}
-</script>
-
-<h3>Frequently Asked Questions (SEO)</h3>
-<strong>Q: Who is Ritik Saini?</strong><br>
-A: Ritik Saini is a Laravel developer and web expert from India, known online as codewithritiksaini.
-
-<strong>Q: What does codewithritiksaini mean?</strong><br>
-A: It's Ritik Saini’s online developer handle used on GitHub, portfolio, and freelancing profiles.
-
-<strong>Q: Where can I find Ritik Saini’s projects?</strong><br>
-A: On GitHub (codewithritiksaini) or his personal website https://ritiksaini.in
-
-<strong>Q: What technologies does Ritik use?</strong><br>
-A: Laravel, PHP, MySQL, Tailwind CSS, Bootstrap, Git, and more.
-
-<!-- SEO keyword variations -->
+<!-- SEO Keyword Block -->
+<div style="display:none">
 codewithritiksaini, code with ritik saini, ritik-saini, ritik saini, web developer india, laravel developer india, ritiksaini github, ritik-saini-laravel, ritiksaini.in, portfolio developer ritik saini, laravel coder ritik, @codewithritiksaini
 </div>
