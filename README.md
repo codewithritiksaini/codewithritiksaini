@@ -1,5 +1,5 @@
-# <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ritik Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="Ritik Saini Web Developer India"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="codewithritiksaini working gif">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_ritik_saini_?label=Follow)](https://twitter.com/intent/follow?screen_name=mr_ritik_saini_)
 [![LinkedIn: Ritik Saini](https://img.shields.io/badge/LinkedIn-Ritik%20Saini-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-saini-web-developer/)
@@ -123,10 +123,53 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ritik-Saini-Git&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
 </div>
 
+---
+
+<!-- 🔥 Advanced SEO: Hidden Structured Data + Keywords -->
+<div hidden>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ritik Saini",
+  "url": "https://github.com/Ritik-Saini-Git",
+  "sameAs": [
+    "https://ritiksaini.in/",
+    "https://twitter.com/mr_ritik_saini_",
+    "https://www.linkedin.com/in/ritik-saini-web-developer/",
+    "https://www.instagram.com/mr._ritik_saini_/"
+  ],
+  "jobTitle": "Web Developer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Haxways Software Development Company"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Maa Shakumbhari University"
+  }
+}
+</script>
+
+<h3>Frequently Asked Questions (SEO)</h3>
+<strong>Q: Who is Ritik Saini?</strong><br>
+A: Ritik Saini is a Laravel developer and web expert from India, known online as codewithritiksaini.
+
+<strong>Q: What does codewithritiksaini mean?</strong><br>
+A: It's Ritik Saini’s online developer handle used on GitHub, portfolio, and freelancing profiles.
+
+<strong>Q: Where can I find Ritik Saini’s projects?</strong><br>
+A: On GitHub (Ritik-Saini-Git) or his personal website https://ritiksaini.in
+
+<strong>Q: What technologies does Ritik use?</strong><br>
+A: Laravel, PHP, MySQL, Tailwind CSS, Bootstrap, Git, and more.
+
+<!-- SEO keyword variations -->
+codewithritiksaini, code with ritik saini, ritik-saini, ritik saini, web developer india, laravel developer india, ritiksaini github, ritik-saini-laravel, ritiksaini.in, portfolio developer ritik saini, laravel coder ritik, @codewithritiksaini
+</div>
