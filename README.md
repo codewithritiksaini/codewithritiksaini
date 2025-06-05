@@ -6,9 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr._ritik_saini_/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/930532968487845928)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white)](https://ritiksaini.in/)
-![Profile views](https://komarev.com/ghpvc/?username=Ritik-Saini-Git&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Ritik-Saini-Git?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Ritik-Saini-Git?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=codewithritiksaini&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/codewithritiksaini?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/codewithritiksaini?style=social)
 
 ---
 
@@ -126,7 +126,7 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-Saini-Git&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithritiksaini&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ I'm a **Web Developer** with 2+ years of experience in building modern and respo
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Ritik Saini",
-  "url": "https://github.com/Ritik-Saini-Git",
+  "url": "https://github.com/codewithritiksaini",
   "sameAs": [
     "https://ritiksaini.in/",
     "https://twitter.com/mr_ritik_saini_",
@@ -165,7 +165,7 @@ A: Ritik Saini is a Laravel developer and web expert from India, known online as
 A: It's Ritik Saini’s online developer handle used on GitHub, portfolio, and freelancing profiles.
 
 <strong>Q: Where can I find Ritik Saini’s projects?</strong><br>
-A: On GitHub (Ritik-Saini-Git) or his personal website https://ritiksaini.in
+A: On GitHub (codewithritiksaini) or his personal website https://ritiksaini.in
 
 <strong>Q: What technologies does Ritik use?</strong><br>
 A: Laravel, PHP, MySQL, Tailwind CSS, Bootstrap, Git, and more.
